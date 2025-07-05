@@ -100,7 +100,7 @@ MIT License
 
 ---
 
-> “Journey through time and discover astronomical events that shaped our universe.”
+> “Journey through time and discover the astronomical events that shaped our universe.”
 
 ---
 
