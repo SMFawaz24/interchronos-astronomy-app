@@ -89,7 +89,8 @@ See [package.json](./package.json) for full details.
 ## 🌐 Live Demo
 
 [https://interchronos.netlify.app/](https://interchronos.netlify.app/)
-![Screenshot 2025-07-02 163606](https://github.com/user-attachments/assets/a4387e81-c21e-4f11-8a68-8e964e91c1d6)
+![Screenshot 2025-07-05 110646](https://github.com/user-attachments/assets/d74f5d43-1403-4aaf-a40e-00fcf76af3b6)
+
 
 
 ---
